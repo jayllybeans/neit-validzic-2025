@@ -1,5 +1,5 @@
 #body {
-    background-color: rgb(186, 208, 248);
+    background-color: #bad0f8;
 }
 
 #welcome{
@@ -13,9 +13,8 @@
 }
 
 #images{
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 40%;
+    width: 25%;
 }
 
 #links{
@@ -30,5 +29,15 @@
 
 #lie{
     background-color: aliceblue;
+    text-align: center;
+}
+
+#trutha{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#truthb{
+    background-color: dodgerblue;
     text-align: center;
 }
