@@ -23,7 +23,7 @@
 }
 
 #truthsandlie{
-    background-color: lightcoral;
+    background-color: indianred;
     text-align: center;
 }
 
@@ -39,5 +39,10 @@
 
 #truthb{
     background-color: dodgerblue;
+    text-align: center;
+}
+
+#answer{
+    background-color: #64a864;
     text-align: center;
 }
